@@ -6,7 +6,7 @@ A county-level forecasting model that predicts severe wildfire activity across C
 
 [**View the full analytical report**](https://github.com/Angadc14/Predicting-Wildfire-Severity-in-California/blob/main/summary_report.html) &nbsp;·&nbsp; [View the interactive risk map](https://github.com/Angadc14/Predicting-Wildfire-Severity-in-California/blob/main/wildfire_risk_map.html) &nbsp;·&nbsp; [View the presentation](https://github.com/Angadc14/Predicting-Wildfire-Severity-in-California/blob/main/MMA867_Team_Harbour_Presentation%20(1).pptx)
 
-![Title slide](./assets/title.jpg)
+<img width="1279" height="692" alt="Screenshot 2026-09-01 at 6 23 13 PM" src="https://github.com/user-attachments/assets/96b33940-c5cf-4d39-acd9-c00d691f018f" />
 
 ---
 
@@ -48,17 +48,20 @@ California alone spends roughly $850 million a year on wildfire response, not co
 
 **Models compared:** Poisson Regression, Random Forest, and Gradient Boosting — all evaluated against a naïve county-season mean baseline, all outperforming it. Gradient Boosting was selected for its lowest MAE.
 
-![Model comparison and feature importance](./assets/model-comparison.jpg)
+<img width="2000" height="1125" alt="model-comparison" src="https://github.com/user-attachments/assets/fde74bbe-148c-4ebc-ab9a-79578bc07b3b" />
+
 
 **Forecasting approach:** predictions are rolled forward year-by-year — each year's predicted severe count becomes the lag input for the following year — preserving the temporal dependency structure that makes the lag features meaningful, rather than a flat historical extrapolation. ENSO conditions for 2016–2025 use published NOAA values; 2026 assumes a neutral ENSO state, which is why the forecast horizon ends there.
 
-![Seasonal severity patterns, 1992–2015](./assets/seasonal-patterns.jpg)
+<img width="2000" height="1125" alt="seasonal-patterns" src="https://github.com/user-attachments/assets/a69a6031-01d2-48f2-8a15-1fd8da2964dc" />
+
 
 ## County Risk Ranking & Resource Allocation
 
 The final forecast distills into a ranked risk tier for all 59 counties, designed to directly support pre-season budget and staffing decisions — Critical (top 5), High (6–10), and Elevated (11–20) — with counties independently corroborated by a second model flagged for extra confidence.
 
-![Top 20 county risk ranking, 2016–2026](./assets/county-risk-ranking.jpg)
+<img width="2000" height="1125" alt="county-risk-ranking" src="https://github.com/user-attachments/assets/a7bf1117-a4a2-479e-b800-b2ac7b2cbb68" />
+
 
 ## Interactive Deliverables
 
