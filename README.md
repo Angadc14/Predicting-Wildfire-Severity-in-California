@@ -4,7 +4,7 @@
 
 A county-level forecasting model that predicts severe wildfire activity across California's 59 counties from 2016–2026, built on 189,550 historical fire records and anchored to published NOAA climate data — designed to help emergency management agencies allocate limited pre-season resources before fires start, not after.
 
-[**View the full analytical report**](./summary_report.html) &nbsp;·&nbsp; [View the interactive risk map](./wildfire_risk_map.html) &nbsp;·&nbsp; [View the presentation](./MMA867_Team_Harbour_Presentation.pptx)
+[**View the full analytical report**](https://github.com/Angadc14/Predicting-Wildfire-Severity-in-California/blob/main/summary_report.html) &nbsp;·&nbsp; [View the interactive risk map](./wildfire_risk_map.html) &nbsp;·&nbsp; [View the presentation](./MMA867_Team_Harbour_Presentation.pptx)
 
 ![Title slide](./assets/title.jpg)
 
