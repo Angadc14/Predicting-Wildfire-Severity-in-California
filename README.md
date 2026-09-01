@@ -106,9 +106,7 @@ Two standalone, self-contained HTML artifacts accompany the slide deck:
 - Integrate a fire-size classification pipeline for real-time dispatch recommendations alongside the planning-horizon forecast.
 - Deploy the interactive map as a hosted web application for emergency management agencies.
 
-## Team Harbour
 
-MMA 867, Predictive Modelling, Smith School of Business, Queen's University.
 
 ## License
 
