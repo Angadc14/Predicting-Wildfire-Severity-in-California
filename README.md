@@ -4,12 +4,11 @@
 
 A county-level forecasting model that predicts severe wildfire activity across California's 59 counties from 2016–2026, built on 189,550 historical fire records and anchored to published NOAA climate data — designed to help emergency management agencies allocate limited pre-season resources before fires start, not after.
 
-[**View the full analytical report**](https://github.com/Angadc14/Predicting-Wildfire-Severity-in-California/blob/main/summary_report.html) &nbsp;·&nbsp; [View the interactive risk map](https://github.com/Angadc14/Predicting-Wildfire-Severity-in-California/blob/main/wildfire_risk_map.html) &nbsp;·&nbsp; [View the presentation](https://github.com/Angadc14/Predicting-Wildfire-Severity-in-California/blob/main/MMA867_Team_Harbour_Presentation%20(1).pptx)
+[**View the full analytical report**](https://angadc14.github.io/Predicting-Wildfire-Severity-in-California/summary_report.html) &nbsp;·&nbsp; [View the interactive risk map](https://angadc14.github.io/Predicting-Wildfire-Severity-in-California/wildfire_risk_map.html) &nbsp;·&nbsp; [View the presentation](https://github.com/Angadc14/Predicting-Wildfire-Severity-in-California/blob/main/MMA867_Team_Harbour_Presentation%20(1).pptx)
 
 <img width="1279" height="692" alt="Screenshot 2026-09-01 at 6 23 13 PM" src="https://github.com/user-attachments/assets/96b33940-c5cf-4d39-acd9-c00d691f018f" />
 
 ---
-[View here](https://angadc14.github.io/Predicting-Wildfire-Severity-in-California/summary_report.html)
 
 ## Overview
 
