@@ -9,6 +9,7 @@ A county-level forecasting model that predicts severe wildfire activity across C
 <img width="1279" height="692" alt="Screenshot 2026-09-01 at 6 23 13 PM" src="https://github.com/user-attachments/assets/96b33940-c5cf-4d39-acd9-c00d691f018f" />
 
 ---
+[View here](https://angadc14.github.io/Predicting-Wildfire-Severity-in-California/summary_report.html)
 
 ## Overview
 
